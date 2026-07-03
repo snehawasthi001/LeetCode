@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/snehawasthi001/LeetCode/tree/master/0682-baseball-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/snehawasthi001/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/snehawasthi001/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/snehawasthi001/LeetCode/tree/master/3620-network-recovery-pathways) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/snehawasthi001/LeetCode/tree/master/0155-min-stack) |
+| [0682-baseball-game](https://github.com/snehawasthi001/LeetCode/tree/master/0682-baseball-game) |
 ## Design
 |  |
 | ------- |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/snehawasthi001/LeetCode/tree/master/3620-network-recovery-pathways) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/snehawasthi001/LeetCode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
