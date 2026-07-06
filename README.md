@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/snehawasthi001/LeetCode/tree/master/0682-baseball-game) |
+| [1288-remove-covered-intervals](https://github.com/snehawasthi001/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/snehawasthi001/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/snehawasthi001/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/snehawasthi001/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/snehawasthi001/LeetCode/tree/master/0682-baseball-game) |
+## Sorting
+|  |
+| ------- |
+| [1288-remove-covered-intervals](https://github.com/snehawasthi001/LeetCode/tree/master/1288-remove-covered-intervals) |
 <!---LeetCode Topics End-->
