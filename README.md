@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/snehawasthi001/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/snehawasthi001/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/snehawasthi001/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/snehawasthi001/LeetCode/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/snehawasthi001/LeetCode/tree/master/0682-baseball-game) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/snehawasthi001/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Design
 |  |
 | ------- |
@@ -103,4 +105,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/snehawasthi001/LeetCode/tree/master/0200-number-of-islands) |
+## Greedy
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/snehawasthi001/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/snehawasthi001/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
