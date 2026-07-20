@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/snehawasthi001/LeetCode/tree/master/0133-clone-graph) |
 | [1331-rank-transform-of-an-array](https://github.com/snehawasthi001/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/snehawasthi001/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
@@ -43,12 +44,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/snehawasthi001/LeetCode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/snehawasthi001/LeetCode/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/snehawasthi001/LeetCode/tree/master/0994-rotting-oranges) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/snehawasthi001/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/snehawasthi001/LeetCode/tree/master/0133-clone-graph) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/snehawasthi001/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/snehawasthi001/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Heap (Priority Queue)
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/snehawasthi001/LeetCode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/snehawasthi001/LeetCode/tree/master/0200-number-of-islands) |
 ## Union-Find
 |  |
