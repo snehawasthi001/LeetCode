@@ -99,10 +99,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/snehawasthi001/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/snehawasthi001/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/snehawasthi001/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Math
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/snehawasthi001/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/snehawasthi001/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Number Theory
 |  |
 | ------- |
