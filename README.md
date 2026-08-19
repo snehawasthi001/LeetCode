@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/snehawasthi001/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/snehawasthi001/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/snehawasthi001/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/snehawasthi001/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/snehawasthi001/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/snehawasthi001/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/snehawasthi001/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/snehawasthi001/LeetCode/tree/master/0133-clone-graph) |
 | [1331-rank-transform-of-an-array](https://github.com/snehawasthi001/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/snehawasthi001/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/snehawasthi001/LeetCode/tree/master/1386-cinema-seat-allocation) |
 ## Sliding Window
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/snehawasthi001/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/snehawasthi001/LeetCode/tree/master/1386-cinema-seat-allocation) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -132,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/snehawasthi001/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1386-cinema-seat-allocation](https://github.com/snehawasthi001/LeetCode/tree/master/1386-cinema-seat-allocation) |
 <!---LeetCode Topics End-->
