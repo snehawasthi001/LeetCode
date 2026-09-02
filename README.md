@@ -89,11 +89,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0887-super-egg-drop](https://github.com/snehawasthi001/LeetCode/tree/master/0887-super-egg-drop) |
 | [3620-network-recovery-pathways](https://github.com/snehawasthi001/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0132-palindrome-partitioning-ii](https://github.com/snehawasthi001/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
+| [0887-super-egg-drop](https://github.com/snehawasthi001/LeetCode/tree/master/0887-super-egg-drop) |
 | [1301-number-of-paths-with-max-score](https://github.com/snehawasthi001/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/snehawasthi001/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0887-super-egg-drop](https://github.com/snehawasthi001/LeetCode/tree/master/0887-super-egg-drop) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/snehawasthi001/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/snehawasthi001/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Number Theory
