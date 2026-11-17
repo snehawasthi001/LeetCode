@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/snehawasthi001/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/snehawasthi001/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/snehawasthi001/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/snehawasthi001/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/snehawasthi001/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Hash Table
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/snehawasthi001/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0887-super-egg-drop](https://github.com/snehawasthi001/LeetCode/tree/master/0887-super-egg-drop) |
 | [1301-number-of-paths-with-max-score](https://github.com/snehawasthi001/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/snehawasthi001/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3620-network-recovery-pathways](https://github.com/snehawasthi001/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -165,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/snehawasthi001/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Two Pointers
+|  |
+| ------- |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/snehawasthi001/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 <!---LeetCode Topics End-->
